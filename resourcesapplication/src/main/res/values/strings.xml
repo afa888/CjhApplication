@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ResourcesApplication</string>
+    <string name="myplugin1_hello_world">哈哈我是插件资源</string>
+</resources>

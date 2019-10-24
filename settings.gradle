@@ -1,0 +1,2 @@
+include ':app', ':library', ':plugin1', ':resourcesapplication'
+rootProject.name='CjhApplication'
